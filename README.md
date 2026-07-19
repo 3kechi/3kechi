@@ -13,9 +13,6 @@
   <a href="https://github.com/3kechi">
     <img src="https://img.shields.io/github/followers/Oxgendev?label=Followers&style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
   <img src="https://img.shields.io/badge/Open%20to%20Relocation-Sweden%20%7C%20EU-success?style=for-the-badge" />
 </p>
 
