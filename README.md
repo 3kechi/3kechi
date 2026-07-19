@@ -1,16 +1,16 @@
 <!-- HEADER -->
-<h1 align="center">👋 Hi, I'm Oguzhan Salih</h1>
+<h1 align="center">👋 Hi, I'm Kechi</h1>
 
 <h3 align="center">
-  Full-Stack Developer · TypeScript · Node.js · React · Next.js
+  Full-Stack Developer · Node.js · Next.js
 </h3>
 
 <p align="center">
-  📍 Open to relocation — Sweden / EU
+  📍 Open to relocation — London / UK
 </p>
 
 <p align="center">
-  <a href="https://github.com/Oxgendev">
+  <a href="https://github.com/3kechi">
     <img src="https://img.shields.io/github/followers/Oxgendev?label=Followers&style=for-the-badge" />
   </a>
   <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/">
@@ -178,8 +178,6 @@ Experienced with real-world systems, not just demos.
 ## 📫 Contact
 
 <p align="left">
-  <a href="https://github.com/Oxgendev">🐙 GitHub</a><br/>
-  <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/">💼 LinkedIn</a><br/>
-  📧 Email: brenfrank827@gmail.com<br/>
-  💬 Discord: oxgendev
+  <a href="https://github.com/3kechi">🐙 GitHub</a><br/>
+  💬 Discord: kechiw
 </p>
