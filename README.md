@@ -13,7 +13,6 @@
   <a href="https://github.com/3kechi">
     <img src="https://img.shields.io/github/followers/Oxgendev?label=Followers&style=for-the-badge" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Relocation-Sweden%20%7C%20EU-success?style=for-the-badge" />
 </p>
 
 ---
