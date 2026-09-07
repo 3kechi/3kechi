@@ -10,11 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/3kechi">
-    <img src="https://img.shields.io/github/followers/Oxgendev?label=Followers&style=for-the-badge" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=3kechi&label=Views&color=blue&style=for-the-badge&base=3042" alt="Profile Views" />
 </p>
-
 ---
 
 ## 🧑‍💻 Profile
