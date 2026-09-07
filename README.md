@@ -12,7 +12,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=3kechi&label=Views&color=blue&style=for-the-badge&base=3042" alt="Profile Views" />
 </p>
----
 
 ## 🧑‍💻 Profile
 
