@@ -27,7 +27,7 @@ I build production-ready systems with an emphasis on:
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3kechi&layout=compact&theme=radical&langs_count=10&hide=html,css" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3kechi&layout=compact&theme=radical&langs_count=10" />
 </p>
 
 ---
