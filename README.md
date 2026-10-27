@@ -133,11 +133,11 @@ I build production-ready systems with an emphasis on:
 
 ---
 
-### 🔎 Modern Web Platforms (Kechifinder / Distfinder)
-**High-performance discovery and distribution dashboards**
+### 🌐 Oxchi Web Platform & Dashboards
+**High-Performance Discovery & Management Portals**
 
-- Full-stack web application with Next.js App Router and real-time database sync
-- Server-side rendering (SSR) for fast initial load times and smooth UX
+- Full-stack web application powered by Next.js App Router and real-time database sync
+- Server-side rendering (SSR) optimized for lightning-fast initial load times and smooth user experience
 
 **Tech:** Next.js · React · TypeScript · Supabase · Vercel
 
