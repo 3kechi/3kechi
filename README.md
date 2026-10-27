@@ -2,90 +2,84 @@
 <h1 align="center">👋 Hi, I'm Kechi</h1>
 
 <h3 align="center">
-  Full-Stack Developer · Node.js · Next.js
+  Full-Stack & Systems Developer · Node.js · TypeScript · Lua
 </h3>
 
 <p align="center">
-  📍 Open to relocation — London / UK
+  📍 Open to relocation — London, UK
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=3kechi&label=Views&color=blue&style=for-the-badge&base=3042" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=3kechi&label=Profile%20Views&color=007acc&style=for-the-badge&base=100" alt="Profile Views" />
 </p>
 
 ## 🧑‍💻 Profile
 
-Full-Stack Developer focused on **backend engineering**, **database architecture**, and **scalable web systems**.
+Full-Stack Developer focused on **scalable automation infrastructure**, **high-concurrency backend services**, and **custom game server systems (FiveM / Lua)**.
 
-I build production-grade software where:
-- ⚡ performance matters
-- 🗄️ data safety is non-negotiable
-- 🧱 architecture is designed for long-term growth
-
-Experienced with real-world systems, not just demos.
+I build production-ready systems with an emphasis on:
+- ⚡ Low-latency runtime execution & server optimization
+- 🛡️ Advanced security, moderation, and guard architectures
+- 🗄️ Resilient database design & state synchronization
 
 ---
 
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxgendev&layout=compact&theme=radical&langs_count=10" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3kechi&layout=compact&theme=radical&langs_count=10&hide=html,css" />
 </p>
 
 ---
 
 ## 🧰 Core Tech Stack
 
-### 💻 Programming Languages
+### 💻 Programming & Scripting
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,lua,cpp,c" />
+  <img src="https://skillicons.dev/icons?i=ts,js,lua,python,cpp,c" />
 </p>
 
-- Strong foundation in **algorithms & data structures**
-- Time & space complexity awareness
-- Clean and readable problem-solving style
+- Asynchronous execution models & event-driven architecture
+- High-performance memory management & script execution optimization
+- Clean, modular, and maintainable codebase structure
 
 ---
 
-### 🎨 Frontend
+### 🎨 Frontend & Web Applications
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,jquery" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,vue,tailwind,html,css" />
 </p>
 
-- React
-- Next.js (SSR, API Routes)
-- Vue
-- HTML5 / HTML3
-- CSS3
-- jQuery
+- Next.js (App Router, Server Actions, SSR)
+- React & Vue SPA architectures
+- Responsive UI & modern dashboard interfaces
 
 ---
 
-### 🔧 Backend
+### 🔧 Backend & Distributed Services
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-- REST API design
-- Authentication & authorization
-- Real-time & event-driven systems
+- Discord Bot Infrastructure & API Integration (Oxchi Framework)
+- Stateful WebSocket & Real-Time Event Communication
+- Authentication, Token Validation & Role-Based Access Control (RBAC)
 
 ---
 
-### 🗄️ Databases & Cache
+### 🗄️ Databases & Caching
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
 </p>
 
-- PostgreSQL (primary)
-- MySQL
-- MongoDB
-- Redis
-- pgAdmin for database management
+- PostgreSQL & MySQL (Relational Data Modeling)
+- MongoDB (Document Storage)
+- Redis (In-memory caching & session management)
+- Supabase Integration
 
 ---
 
-### 🧩 ORM / Query Layer
+### 🧩 ORMs & Query Builders
 <p align="left">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" />
   <img src="https://img.shields.io/badge/Knex.js-E34F26?style=for-the-badge" />
@@ -94,82 +88,67 @@ Experienced with real-world systems, not just demos.
 
 ---
 
-## ⚙️ DevOps · OS · Tooling
+## ⚙️ DevOps & Developer Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ubuntu,linux,bash,git,github,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,bash,git,github,docker,vscode" />
 </p>
 
-| Area | Tools |
-|----|------|
-| OS | Ubuntu / Linux |
-| Terminal | Bash |
-| Version Control | Git / GitHub |
-| CI/CD | GitHub Actions |
-| Containers | Docker |
+| Category | Tooling & Environments |
+|---|---|
+| **OS** | Ubuntu / Linux Server Administration |
+| **Scripting & Shell** | Bash Automation Scripts |
+| **Version Control** | Git / GitHub CI Integration |
+| **Environments** | Docker Containers |
 
 ---
 
 ## 🌟 Selected Projects
 
-### 🌐 Backend API Platform
-**Centralized REST API for system & user management**
+### 🤖 Oxchi Security & Management Bot Infrastructure
+**Multi-functional Discord & Game Server Management Bot Suite**
 
-- Clean service/controller separation
-- Redis caching with safe invalidation
-- PostgreSQL & MongoDB support
-- Dockerized environments
+- Automated moderation, ticketing, guard security, and server activity tracking
+- Highly configurable event handling with zero-downtime hot-reloading
+- Redis-backed rate-limiting and robust fault-tolerance
 
-**Tech:** Node.js · TypeScript · Express · PostgreSQL · Redis
-
----
-
-### 📊 Admin Dashboard
-**Modern SSR dashboard for metrics & management**
-
-- Next.js App Router
-- Role-based access control
-- Prisma / Knex migrations
-- Maintainable UI architecture
-
-**Tech:** Next.js · React · TypeScript · PostgreSQL
+**Tech:** Node.js · TypeScript · Discord.js · PostgreSQL · Redis
 
 ---
 
-### ⚡ Real-Time Systems
-**Event-driven, low-latency architectures**
+### 🎮 FiveM Server Resource Optimization & Automation
+**High-concurrency custom Lua resources and backend sync**
 
-- Client–server validation
-- State synchronization
-- Lua-based performance scripting
-- Redis-backed messaging
+- Low-tick-rate optimization for active server environments
+- Secure client-server RPCs and anti-cheat validation layers
+- Live database persistence with async query queuing
 
-**Tech:** Lua · JavaScript · SQL · Redis
+**Tech:** Lua · JavaScript · MySQL · Redis
+
+---
+
+### 🔎 Modern Web Platforms (Kechifinder / Distfinder)
+**High-performance discovery and distribution dashboards**
+
+- Full-stack web application with Next.js App Router and real-time database sync
+- Server-side rendering (SSR) for fast initial load times and smooth UX
+
+**Tech:** Next.js · React · TypeScript · Supabase · Vercel
 
 ---
 
 ## 📈 Measurable Impact
 
-- ⚡ Server tick optimization: **6.8ms → 3.1ms**
-- 🚀 API latency (p95): **120ms → 70ms**
-- 🗄️ Database load reduction: **30–35%**
-- 🔄 Zero data loss across releases
+- ⚡ FiveM Server Tick Optimization: **6.8ms → 3.1ms**
+- 🚀 API & Bot Command Response Time: **<80ms average latency**
+- 🗄️ Database Query Reduction: **~35% workload decrease via Redis caching**
+- 🛡️ Zero security bypasses or state desyncs across active releases
 
 ---
 
-## 🧱 Engineering Practices
-
-- Feature-based branching (`feature/*`, `fix/*`)
-- Conventional commits
-- CI-enforced quality gates
-- Semantic versioning
-- Clear changelogs & documentation
-
----
-
-## 📫 Contact
+## 📫 Contact & Connect
 
 <p align="left">
-  <a href="https://github.com/3kechi">🐙 GitHub</a><br/>
+  <a href="https://github.com/3kechi">🐙 GitHub (@3kechi)</a><br/>
   💬 Discord: kechiw
 </p>
