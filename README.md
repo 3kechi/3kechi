@@ -10,7 +10,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=3kechi&label=Profile%20Views&color=007acc&style=for-the-badge&base=100" alt="Profile Views" />
+
+  <img src="https://komarev.com/ghpvc/?username=3kechi&label=Views&color=blue&style=for-the-badge&base=3042" alt="Profile Views" />
+
 </p>
 
 ## 🧑‍💻 Profile
